@@ -1,15 +1,17 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "APWA",
+  "name": "Awesome PWA",
   "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
+      {
+          "src": "https://icons-for-free.com/free-icons/png/512/479476.png",
+          "sizes": "512x512 192x192 168x168 144x144 96x96 72x72 64x64 32x32 24x24 16x16",
+          "type": "image/png"
+      }
   ],
-  "start_url": ".",
+  "start_url": "https://bakesi.github.io/react-pwa/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#123456",
+  "background_color": "#123456",
+  "lang": "",
+  "description": "My awesome PWA"
 }
